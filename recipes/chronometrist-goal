@@ -1,3 +1,0 @@
-(chronometrist-goal
- :repo "contrapunctus-1/chronometrist-goal"
- :fetcher github)
